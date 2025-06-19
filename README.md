@@ -1,2 +1,0 @@
-# getfund
-Getfund Pitch Website
